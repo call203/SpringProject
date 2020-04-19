@@ -3,6 +3,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <head>
-    <script type="text/javascript" src="${pageContext.request.contextPath}/resources/js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="${pageContext.request.contextPath}/resources/js/jquery.min.js"></script>
 </head>
 </html>
