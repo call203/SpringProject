@@ -6,11 +6,12 @@
  
 <title>Home</title>
     <%@include file="./common_resource.jsp"%>
-    <script type="text/javascript" src="${pageContext.request.contextPath}/resources/js/home.js"></script>
+    
     <link href="${pageContext.request.contextPath}/resources/css/home.css" rel="stylesheet" />
  
 </head>
 <body>
+<script type="text/javascript" src="${pageContext.request.contextPath}/resources/js/home.js"></script>
     <h1>Hello world!</h1>
      <button id = "load_movieList" type = "button">영화 목록 가져오기</button>
     <table>
@@ -18,7 +19,7 @@
             <tr>
                 <th>영화이름</th>
                 <th>감독</th>
-                <th>장르</th>
+                <th>장르 </th>
             </tr>
         </thead>
         <tbody id ="movieList" >
