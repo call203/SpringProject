@@ -34,7 +34,7 @@ function load_movielist(){
 					td3.innerHTML = movieList[i].types;
 					tr.appendChild(td3);
 					document.getElementById('movieList').appendChild(tr);
-					console.log("ok");
+					console.log("완료");
 						
                 }     
                 
