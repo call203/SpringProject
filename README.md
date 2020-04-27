@@ -7,8 +7,7 @@
 * Web application server : Tomcat 9
 * DB : mariaDB
 
-### 시각화 페이지 구축
-
+## 시각화 페이지 구축
 * settingweb1 - RestController로 DataBinding
    Ajax + javascript를 이용해서데이터 호출  
   JSON으로 리턴 (Jackson libary 필요함)
