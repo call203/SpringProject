@@ -1,5 +1,5 @@
 # SpringProject
-  품질 데이터 시작화 프로젝트 with chart
+  품질 데이터 시각화 프로젝트 with chart
 ## 개발환경
 * JDK 1.8
 * IDE : Eclipse IDE for Java EE developers
